@@ -1,0 +1,1815 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<PCD>
+  <Panoramas maptype="" startdir="270" startpano="pano0" startfloor="5F">
+    <Panorama panoid="pano0">
+      <img height="459" src="05_floor_01.jpg" width="1500"/>
+      <coords lat="34.66826290204353" lng="133.91655385494232"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano1">
+          <range end="321" start="217"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="">
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano1">
+      <img height="459" src="05_floor_02.jpg" width="1500"/>
+      <coords lat="34.66826277335982" lng="133.91651932150126"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano0">
+          <range end="141" start="37"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano2">
+          <range end="322" start="216"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano2">
+      <img height="459" src="05_floor_03.jpg" width="1500"/>
+      <coords lat="34.668262718210244" lng="133.91648814082146"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano1">
+          <range end="142" start="36"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano3">
+          <range end="324" start="220"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano3">
+      <img height="459" src="05_floor_04.jpg" width="1500"/>
+      <coords lat="34.66826382121406" lng="133.91645595431328"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano29">
+          <range end="56" start="304"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano2">
+          <range end="122" start="57"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano11">
+          <range end="233" start="123"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano4">
+          <range end="324" start="220"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano4">
+      <img height="459" src="05_floor_05.jpg" width="1500"/>
+      <coords lat="34.668262718210244" lng="133.91641974449158"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano3">
+          <range end="100" start="60"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano5">
+          <range end="324" start="220"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano5">
+      <img height="459" src="05_floor_06.jpg" width="1500"/>
+      <coords lat="34.668262166708345" lng="133.91638487577438"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano4">
+          <range end="127" start="60"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano6">
+          <range end="325" start="262"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano6">
+      <img height="459" src="05_floor_07.jpg" width="1500"/>
+      <coords lat="34.668262166708345" lng="133.91634933650494"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano5">
+          <range end="120" start="50"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano7">
+          <range end="324" start="220"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano7">
+      <img height="459" src="05_floor_08.jpg" width="1500"/>
+      <coords lat="34.668262001257574" lng="133.91631212085485"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano42">
+          <range end="45" start="293"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano6">
+          <range end="122" start="46"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano28">
+          <range end="233" start="123"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano8">
+          <range end="292" start="234"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano8">
+      <img height="459" src="05_floor_09.jpg" width="1500"/>
+      <coords lat="34.66826106370453" lng="133.9162789285183"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano73">
+          <range end="55" start="305"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano7">
+          <range end="125" start="56"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano55">
+          <range end="234" start="126"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano9">
+          <range end="304" start="235"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano9">
+      <img height="459" src="05_floor_10.jpg" width="1500"/>
+      <coords lat="34.668261743890156" lng="133.91624305397272"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano8">
+          <range end="115" start="39"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano10">
+          <range end="321" start="229"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano10">
+      <img height="459" src="05_floor_11.jpg" width="1500"/>
+      <coords lat="34.66826161520645" lng="133.91620852053165"/>
+      <direction north="1139"/>
+      <chpanos>
+          <chpano panoid="pano9">
+          <range end="120" start="37"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano57">
+          <range end="227" start="121"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano11">
+      <img height="457" src="05_room1_03.jpg" width="1500"/>
+      <coords lat="34.6682472761555" lng="133.91645662486553"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano3">
+          <range end="53" start="303"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano12">
+          <range end="233" start="125"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano14">
+          <range end="302" start="234"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano12">
+      <img height="457" src="05_room1_02.jpg" width="1500"/>
+      <coords lat="34.66822631907395" lng="133.91645696014166"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano11">
+          <range end="53" start="305"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano13">
+          <range end="233" start="125"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano15">
+          <range end="304" start="234"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano13">
+      <img height="457" src="05_room1_01.jpg" width="1500"/>
+      <coords lat="34.6682053619924" lng="133.91645729541779"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano12">
+          <range end="53" start="305"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano16">
+          <range end="304" start="212"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano14">
+      <img height="457" src="05_room1_06.jpg" width="1500"/>
+      <coords lat="34.668247827657495" lng="133.91643047332764"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano11">
+          <range end="123" start="37"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano15">
+          <range end="195" start="124"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano17">
+          <range end="273" start="196"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano15">
+      <img height="457" src="05_room1_05.jpg" width="1500"/>
+      <coords lat="34.668227146327226" lng="133.9164311438799"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano14">
+          <range end="52" start="304"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano12">
+          <range end="146" start="53"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano16">
+          <range end="189" start="147"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano20">
+          <range end="298" start="190"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano16">
+      <img height="457" src="05_room1_04.jpg" width="1500"/>
+      <coords lat="34.668204258987814" lng="133.91643181443214"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano15">
+          <range end="31" start="305"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano13">
+          <range end="140" start="32"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano20">
+          <range end="304" start="249"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano17">
+      <img height="457" src="05_room1_08.jpg" width="1500"/>
+      <coords lat="34.668241393466516" lng="133.91640834510326"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano14">
+          <range end="124" start="16"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano15">
+          <range end="180" start="125"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano20">
+          <range end="213" start="181"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano18">
+          <range end="322" start="214"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano18">
+      <img height="457" src="05_room1_10.jpg" width="1500"/>
+      <coords lat="34.668241025798835" lng="133.91638353466988"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano17">
+          <range end="142" start="34"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano21">
+          <range end="213" start="143"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano19">
+          <range end="322" start="214"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano19">
+      <img height="457" src="05_room1_12.jpg" width="1500"/>
+      <coords lat="34.668240658131154" lng="133.9163587242365"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano18">
+          <range end="142" start="34"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano22">
+          <range end="232" start="143"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano25">
+          <range end="341" start="233"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano20">
+      <img height="457" src="05_room1_07.jpg" width="1500"/>
+      <coords lat="34.66821749504179" lng="133.91640700399876"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano17">
+          <range end="9" start="320"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano15">
+          <range end="118" start="10"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano16">
+          <range end="175" start="119"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano21">
+          <range end="319" start="211"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano21">
+      <img height="457" src="05_room1_09.jpg" width="1500"/>
+      <coords lat="34.668215840535154" lng="133.91638353466988"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano18">
+          <range end="30" start="329"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano20">
+          <range end="139" start="31"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano22">
+          <range end="328" start="220"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano22">
+      <img height="457" src="05_room1_11.jpg" width="1500"/>
+      <coords lat="34.66821749504179" lng="133.9163587242365"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano19">
+          <range end="39" start="346"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano21">
+          <range end="148" start="40"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano23">
+          <range end="236" start="178"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano24">
+          <range end="345" start="237"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano23">
+      <img height="457" src="05_room1_13.jpg" width="1500"/>
+      <coords lat="34.66820278831432" lng="133.91633659601212"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano24">
+          <range end="52" start="326"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano21">
+          <range end="120" start="53"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano26">
+          <range end="325" start="217"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano24">
+      <img height="457" src="05_room1_14.jpg" width="1500"/>
+      <coords lat="34.66822475648391" lng="133.91633592545986"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano25">
+          <range end="52" start="325"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano22">
+          <range end="165" start="57"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano23">
+          <range end="215" start="166"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano27">
+          <range end="324" start="216"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano25">
+      <img height="457" src="05_room1_15.jpg" width="1500"/>
+      <coords lat="34.6682467246535" lng="133.9163352549076"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano19">
+          <range end="161" start="91"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano24">
+          <range end="215" start="162"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano28">
+          <range end="324" start="216"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano26">
+      <img height="457" src="05_room1_16.jpg" width="1500"/>
+      <coords lat="34.66820315598323" lng="133.91631312668324"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano27">
+          <range end="36" start="305"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano23">
+          <range end="145" start="37"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano27">
+      <img height="457" src="05_room1_17.jpg" width="1500"/>
+      <coords lat="34.66822494031837" lng="133.9163127914071"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano28">
+          <range end="35" start="305"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano24">
+          <range end="144" start="36"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano26">
+          <range end="233" start="145"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano28">
+      <img height="457" src="05_room1_18.jpg" width="1500"/>
+      <coords lat="34.6682467246535" lng="133.91631245613098"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano7">
+          <range end="53" start="303"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano25">
+          <range end="144" start="54"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano27">
+          <range end="233" start="145"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano29">
+      <img height="457" src="05_room2_01.jpg" width="1500"/>
+      <coords lat="34.66827705725852" lng="133.91645595431328"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano32">
+          <range end="56" start="304"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano3">
+          <range end="236" start="124"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano30">
+          <range end="303" start="237"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano30">
+      <img height="457" src="05_room2_02.jpg" width="1500"/>
+      <coords lat="34.668276781507615" lng="133.9164237678051"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano33">
+          <range end="52" start="300"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano29">
+          <range end="136" start="53"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano31">
+          <range end="299" start="250"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano31">
+      <img height="457" src="05_room2_03.jpg" width="1500"/>
+      <coords lat="34.6682765057567" lng="133.91639158129692"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano34">
+          <range end="48" start="296"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano30">
+          <range end="141" start="49"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano32">
+      <img height="457" src="05_room2_04.jpg" width="1500"/>
+      <coords lat="34.66828974179912" lng="133.91645595431328"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano35">
+          <range end="53" start="301"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano29">
+          <range end="236" start="124"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano33">
+          <range end="300" start="237"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano33">
+      <img height="457" src="05_room2_05.jpg" width="1500"/>
+      <coords lat="34.668289466048265" lng="133.91642276197672"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano36">
+          <range end="54" start="302"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano32">
+          <range end="119" start="55"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano30">
+          <range end="232" start="120"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano34">
+          <range end="301" start="233"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano34">
+      <img height="457" src="05_room2_06.jpg" width="1500"/>
+      <coords lat="34.6682891902974" lng="133.91638956964016"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano37">
+          <range end="56" start="304"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano33">
+          <range end="115" start="57"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano31">
+          <range end="228" start="116"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano35">
+      <img height="457" src="05_room2_07.jpg" width="1500"/>
+      <coords lat="34.66830408084272" lng="133.91645528376102"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano38">
+          <range end="56" start="304"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano32">
+          <range end="233" start="121"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano36">
+          <range end="303" start="234"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano36">
+      <img height="457" src="05_room2_08.jpg" width="1500"/>
+      <coords lat="34.66830352934109" lng="133.9164224267006"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano39">
+          <range end="56" start="304"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano35">
+          <range end="121" start="57"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano33">
+          <range end="234" start="122"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano37">
+          <range end="303" start="235"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano37">
+      <img height="457" src="05_room2_09.jpg" width="1500"/>
+      <coords lat="34.66830297783946" lng="133.91638956964016"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano40">
+          <range end="56" start="304"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano36">
+          <range end="123" start="57"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano34">
+          <range end="236" start="124"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano38">
+      <img height="457" src="05_room2_10.jpg" width="1500"/>
+      <coords lat="34.6683167653792" lng="133.91645528376102"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano35">
+          <range end="236" start="124"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano39">
+          <range end="322" start="237"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano39">
+      <img height="457" src="05_room2_11.jpg" width="1500"/>
+      <coords lat="34.66831704112997" lng="133.9164224267006"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano41">
+          <range end="56" start="304"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano38">
+          <range end="123" start="57"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano36">
+          <range end="236" start="124"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano40">
+          <range end="303" start="237"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano40">
+      <img height="457" src="05_room2_12.jpg" width="1500"/>
+      <coords lat="34.66831731688074" lng="133.91638956964016"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano39">
+          <range end="123" start="38"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano37">
+          <range end="236" start="124"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano41">
+      <img height="457" src="05_room2_13.jpg" width="1500"/>
+      <coords lat="34.66832834691082" lng="133.9164224267006"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano38">
+          <range end="123" start="61"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano39">
+          <range end="236" start="124"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano40">
+          <range end="299" start="237"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano42">
+      <img height="457" src="05_room3_01.jpg" width="1500"/>
+      <coords lat="34.66827595425488" lng="133.9163091033697"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano45">
+          <range end="50" start="298"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano43">
+          <range end="112" start="51"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano7">
+          <range end="225" start="113"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano43">
+      <img height="457" src="05_room3_02.jpg" width="1500"/>
+      <coords lat="34.66827623000579" lng="133.91633860766888"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano46">
+          <range end="51" start="299"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano44">
+          <range end="91" start="52"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano42">
+          <range end="298" start="216"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano44">
+      <img height="457" src="05_room3_03.jpg" width="1500"/>
+      <coords lat="34.6682765057567" lng="133.91636811196804"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano47">
+          <range end="53" start="301"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano46">
+          <range end="300" start="282"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+          <chpano panoid="pano43">
+          <range end="281" start="250"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano45">
+      <img height="457" src="05_room3_04.jpg" width="1500"/>
+      <coords lat="34.668287535792196" lng="133.9163077622652"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano48">
+          <range end="51" start="299"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano46">
+          <range end="117" start="52"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano42">
+          <range end="230" start="118"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano46">
+      <img height="457" src="05_room3_05.jpg" width="1500"/>
+      <coords lat="34.66828781154307" lng="133.9163376018405"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano49">
+          <range end="54" start="302"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano47">
+          <range end="118" start="55"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano43">
+          <range end="231" start="119"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano45">
+          <range end="301" start="232"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano47">
+      <img height="457" src="05_room3_06.jpg" width="1500"/>
+      <coords lat="34.66828808729394" lng="133.9163674414158"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano50">
+          <range end="58" start="306"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano44">
+          <range end="233" start="121"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano46">
+          <range end="305" start="234"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano48">
+      <img height="457" src="05_room3_07.jpg" width="1500"/>
+      <coords lat="34.66830077183286" lng="133.9163064211607"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano51">
+          <range end="55" start="305"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano49">
+          <range end="118" start="56"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano45">
+          <range end="231" start="119"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano49">
+      <img height="457" src="05_room3_08.jpg" width="1500"/>
+      <coords lat="34.66830132333452" lng="133.91633726656437"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano52">
+          <range end="56" start="304"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano50">
+          <range end="121" start="57"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano46">
+          <range end="234" start="122"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano48">
+          <range end="303" start="235"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano50">
+      <img height="457" src="05_room3_09.jpg" width="1500"/>
+      <coords lat="34.668301874836175" lng="133.91636811196804"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano53">
+          <range end="53" start="301"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano47">
+          <range end="238" start="126"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano49">
+          <range end="300" start="239"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano51">
+      <img height="457" src="05_room3_10.jpg" width="1500"/>
+      <coords lat="34.668315662376095" lng="133.9163064211607"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano52">
+          <range end="124" start="37"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano48">
+          <range end="235" start="125"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano52">
+      <img height="457" src="05_room3_11.jpg" width="1500"/>
+      <coords lat="34.668315662376095" lng="133.91633726656437"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano54">
+          <range end="56" start="304"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano53">
+          <range end="123" start="57"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano49">
+          <range end="236" start="124"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano51">
+          <range end="303" start="237"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano53">
+      <img height="457" src="05_room3_12.jpg" width="1500"/>
+      <coords lat="34.66831511087455" lng="133.9163674414158"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano50">
+          <range end="233" start="121"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano52">
+          <range end="324" start="234"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano54">
+      <img height="457" src="05_room3_13.jpg" width="1500"/>
+      <coords lat="34.668327795409354" lng="133.91633726656437"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano53">
+          <range end="123" start="65"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano52">
+          <range end="236" start="124"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano51">
+          <range end="296" start="237"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano55">
+      <img height="457" src="05_room4_01.jpg" width="1500"/>
+      <coords lat="34.66823955512706" lng="133.9162789285183"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano8">
+          <range end="54" start="306"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano58">
+          <range end="238" start="126"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano56">
+          <range end="305" start="239"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano56">
+      <img height="457" src="05_room4_02.jpg" width="1500"/>
+      <coords lat="34.66823900362498" lng="133.91624439507723"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano64">
+          <range end="57" start="305"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano55">
+          <range end="121" start="58"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano59">
+          <range end="234" start="122"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano57">
+          <range end="304" start="235"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano57">
+      <img height="457" src="05_room4_03.jpg" width="1500"/>
+      <coords lat="34.66823900362498" lng="133.91621120274067"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano10">
+          <range end="47" start="301"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano56">
+          <range end="125" start="48"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano60">
+          <range end="238" start="126"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano58">
+      <img height="457" src="05_room4_04.jpg" width="1500"/>
+      <coords lat="34.66822521607229" lng="133.91627825796604"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano55">
+          <range end="58" start="306"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano61">
+          <range end="235" start="125"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano59">
+          <range end="305" start="236"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano59">
+      <img height="457" src="05_room4_05.jpg" width="1500"/>
+      <coords lat="34.66822576757444" lng="133.91624473035336"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano56">
+          <range end="54" start="302"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano58">
+          <range end="125" start="55"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano62">
+          <range end="234" start="126"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano60">
+          <range end="301" start="235"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano60">
+      <img height="457" src="05_room4_06.jpg" width="1500"/>
+      <coords lat="34.66822466457014" lng="133.91621053218842"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano57">
+          <range end="58" start="306"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano59">
+          <range end="124" start="59"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano63">
+          <range end="235" start="125"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano61">
+      <img height="457" src="05_room4_07.jpg" width="1500"/>
+      <coords lat="34.66820720033262" lng="133.91627825796604"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano58">
+          <range end="55" start="305"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano62">
+          <range end="304" start="217"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano62">
+      <img height="457" src="05_room4_08.jpg" width="1500"/>
+      <coords lat="34.66820692458148" lng="133.91624439507723"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano59">
+          <range end="54" start="306"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano61">
+          <range end="141" start="55"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano63">
+          <range end="305" start="217"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano63">
+      <img height="457" src="05_room4_09.jpg" width="1500"/>
+      <coords lat="34.66820664883034" lng="133.91621053218842"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano60">
+          <range end="55" start="305"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano62">
+          <range end="141" start="56"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano64">
+      <img height="457" src="05_room4_10.jpg" width="1500"/>
+      <coords lat="34.66825058516746" lng="133.91624473035336"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano56">
+          <range end="237" start="125"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano57">
+          <range end="295" start="238"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano65">
+      <img height="459" src="05_room5_01.jpg" width="1500"/>
+      <coords lat="34.66832172889294" lng="133.9162816107273"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano68">
+          <range end="238" start="126"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano66">
+          <range end="317" start="239"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano66">
+      <img height="459" src="05_room5_02.jpg" width="1500"/>
+      <coords lat="34.66831933905267" lng="133.91624607145786"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano65">
+          <range end="124" start="33"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano69">
+          <range end="237" start="125"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano67">
+          <range end="320" start="238"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano67">
+      <img height="459" src="05_room5_03.jpg" width="1500"/>
+      <coords lat="34.66831897138534" lng="133.9162078499794"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano66">
+          <range end="123" start="38"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano70">
+          <range end="236" start="124"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano68">
+      <img height="459" src="05_room5_04.jpg" width="1500"/>
+      <coords lat="34.66830738985242" lng="133.91628094017506"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano65">
+          <range end="58" start="306"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano71">
+          <range end="236" start="124"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano69">
+          <range end="305" start="237"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano69">
+      <img height="459" src="05_room5_05.jpg" width="1500"/>
+      <coords lat="34.66830610301497" lng="133.91624573618174"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano66">
+          <range end="57" start="305"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano68">
+          <range end="119" start="58"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano72">
+          <range end="232" start="120"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano70">
+          <range end="304" start="233"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano70">
+      <img height="459" src="05_room5_06.jpg" width="1500"/>
+      <coords lat="34.66830573534757" lng="133.9162078499794"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano67">
+          <range end="56" start="304"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano69">
+          <range end="140" start="57"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano71">
+      <img height="459" src="05_room5_07.jpg" width="1500"/>
+      <coords lat="34.6682936023111" lng="133.91628094017506"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano68">
+          <range end="56" start="304"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano73">
+          <range end="241" start="131"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano72">
+          <range end="303" start="242"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano72">
+      <img height="459" src="05_room5_08.jpg" width="1500"/>
+      <coords lat="34.6682936023111" lng="133.91624674201012"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano69">
+          <range end="52" start="300"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano71">
+          <range end="142" start="53"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+    <Panorama panoid="pano73">
+      <img height="459" src="05_room5_09.jpg" width="1500"/>
+      <coords lat="34.668278711763904" lng="133.9162789285183"/>
+      <direction north="1139"/>
+      <chpanos>
+        <chpano panoid="pano71">
+          <range end="61" start="311"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+        <chpano panoid="pano8">
+          <range end="235" start="125"/>
+          <fov base="100.0" next="105.0"/>
+          <fovB base="105.0" next="100.0"/>
+          <correct pan="0.0" tilt="0.0"/>
+        </chpano>
+      </chpanos>
+    </Panorama>
+  </Panoramas>
+</PCD>

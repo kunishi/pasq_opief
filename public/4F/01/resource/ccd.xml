@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CCD>
+	<Contents maptype="google">
+	<floor no="B1">
+ <!-- コンテンツ位置：B1 -->
+    <Content contentid="01" type="img">
+      <img src="pano61.jpg" thumbsrc=""/>
+      <coords lng="133.9164251089096" lat="34.66821142851731" height="1.5"/>
+			<range radius="30" angle_s="0" angle_e="359" />
+      <detail name="シアター" /> 
+      <coment>
+      </coment>
+    </Content>
+    <!-- コンテンツ位置：B1 -->
+    <Content contentid="02" type="img">
+      <img src="pano61.jpg" thumbsrc=""/>
+      <coords lng="133.9164251089096" lat="34.66821142851731" height="1.5"/>
+			<range radius="30" angle_s="0" angle_e="359" />
+      <detail name="スクール" /> 
+      <coment>
+      </coment>
+    </Content>
+    <!-- コンテンツ位置：B1 -->
+    <Content contentid="03" type="img">
+      <img src="pano61.jpg" thumbsrc=""/>
+      <coords lng="133.9164251089096" lat="34.66821142851731" height="1.5"/>
+			<range radius="30" angle_s="0" angle_e="359" />
+      <detail name="パーティー" /> 
+      <coment>
+      </coment>
+    </Content>
+    </floor>
+    
+    <floor no="2F">
+  <!-- コンテンツ位置：2F -->
+    <Content contentid="01" type="img">
+      <img src="pano61.jpg" thumbsrc="2F01.jpg"/>
+      <coords lng="133.9164251089096" lat="34.66821142851731" height="1.5"/>
+			<range radius="30" angle_s="0" angle_e="359" />
+      <detail name="シアター" /> 
+      <coment>
+      </coment>
+    </Content>
+    <!-- コンテンツ位置：2F -->
+    <Content contentid="02" type="img">
+      <img src="pano61.jpg" thumbsrc="2F02.jpg"/>
+      <coords lng="133.9164251089096" lat="34.66821142851731" height="1.5"/>
+			<range radius="30" angle_s="0" angle_e="359" />
+      <detail name="スクール" /> 
+      <coment>
+      </coment>
+    </Content>
+    </floor>
+    
+    <floor no="4F">
+    <!-- コンテンツ位置：4F -->
+    <Content contentid="01" type="img">
+      <img src="pano61.jpg" thumbsrc="01"/>
+      <coords lng="133.9164251089096" lat="34.66821142851731" height="1.5"/>
+			<range radius="30" angle_s="0" angle_e="359" />
+      <detail name="スクール" /> 
+      <coment>
+      </coment>
+    </Content>
+    <!-- コンテンツ位置：4F -->
+    <Content contentid="02" type="img">
+      <img src="pano61.jpg" thumbsrc=""/>
+      <coords lng="133.9164251089096" lat="34.66821142851731" height="1.5"/>
+			<range radius="30" angle_s="0" angle_e="359" />
+      <detail name="口の字" /> 
+      <coment>
+      </coment>
+    </Content>
+    <!-- コンテンツ位置：4F -->
+    <Content contentid="03" type="img">
+      <img src="pano61.jpg" thumbsrc=""/>
+      <coords lng="133.9164251089096" lat="34.66821142851731" height="1.5" />
+			<range radius="30" angle_s="0" angle_e="359" />
+      <detail name="図書資料室" /> 
+      <coment>
+      </coment>
+    </Content>
+    </floor>
+    
+    <floor no="5F">
+    <!-- コンテンツ位置：5F -->
+    <Content contentid="01" type="img">
+      <img src="pano61.jpg" thumbsrc=""/>
+      <coords lng="133.9164251089096" lat="34.66821142851731" height="1.5"/>
+			<range radius="30" angle_s="0" angle_e="359" />
+      <detail name="会議室" /> 
+      <coment>
+      </coment>
+    </Content>
+    </floor>
+    
+    <floor no="8F">
+    <!-- コンテンツ位置：8F -->
+    <Content contentid="01" type="img">
+      <img src="pano61.jpg" thumbsrc=""/>
+      <coords lng="133.9164251089096" lat="34.66821142851731" height="1.5" />
+			<range radius="30" angle_s="0" angle_e="359" />
+      <detail name="シアター" /> 
+      <coment>
+      </coment>
+    </Content>
+    <!-- コンテンツ位置：8F -->
+    <Content contentid="02" type="img">
+      <img src="pano61.jpg" thumbsrc=""/>
+      <coords lng="133.9164251089096" lat="34.66821142851731" height="1.5" />
+			<range radius="30" angle_s="0" angle_e="359" />
+      <detail name="スクール２" /> 
+      <coment>
+      </coment>
+    </Content>
+    <!-- コンテンツ位置：8F -->
+    <Content contentid="03" type="img">
+      <img src="pano61.jpg" thumbsrc=""/>
+      <coords lng="133.9164251089096" lat="34.66821142851731" height="1.5"/>
+			<range radius="30" angle_s="0" angle_e="359" />
+      <detail name="スクール３" /> 
+      <coment>
+      </coment>
+    </Content>
+    <!-- コンテンツ位置：8F -->
+    <Content contentid="04" type="img">
+      <img src="pano61.jpg" thumbsrc=""/>
+      <coords lng="133.9164251089096" lat="34.66821142851731" height="1.5"/>
+			<range radius="30" angle_s="0" angle_e="359" />
+      <detail name="ホール" /> 
+      <coment>
+      </coment>
+    </Content>
+    </floor>
+	</Contents>
+</CCD>
